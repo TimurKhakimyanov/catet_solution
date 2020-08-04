@@ -1,7 +1,12 @@
+#code to calculate the lengths of the legs and the hypotenuse of a triangle
+#values are entered in order a then b then C
+#if the value is unknown and you need to find it, enter 0 instead
+#July 2020 
+
 #код для вычисления катетов и гипотенузы прямоугольного треугольника
 #значения вводятся в порядке а потом b потом с
 #если значение неизвестно и его и нужно найти вместо него вводится 0
-#July 2020
+#Июль 2020 год 
 
 
 from math import sqrt
